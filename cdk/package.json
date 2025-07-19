@@ -1,0 +1,17 @@
+{
+  "name": "cdk",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk",
+    "deploy": "cdk deploy",
+    "test": "echo \"No tests\""
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0",
+    "aws-cdk-lib": "^2.130.0",
+    "constructs": "^10.3.0"
+  }
+}
