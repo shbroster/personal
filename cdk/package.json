@@ -1,0 +1,11 @@
+{
+  "name": "personal-site-cdk",
+  "version": "1.0.0",
+  "bin": {
+    "cdk": "bin/personal-site.js"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.142.0",
+    "constructs": "^10.0.0"
+  }
+}
